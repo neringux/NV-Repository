@@ -1,0 +1,22 @@
+{
+  "name": "nv-repository",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neringux/NV-Repository.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neringux/NV-Repository/issues"
+  },
+  "homepage": "https://github.com/neringux/NV-Repository#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.13.1"
+  }
+}
